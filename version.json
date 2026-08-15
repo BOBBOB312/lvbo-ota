@@ -1,7 +1,7 @@
 {
   "versionCode": 4,
   "versionName": "0.4.0",
-  "apkUrl": "https://github.com/BOBBOB312/lvbo-ota/releases/download/v0.4.0/lvbo-0.4.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.4.0.apk",
   "notes": "独立视频音量和应用内检查更新",
   "force": false,
   "sha256": "ff9051c48b28e8750a2cadb27d361205f620eb0375bed0352376af1df696550a"
