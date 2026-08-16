@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.4.0.apk",
-  "notes": "独立视频音量和应用内检查更新",
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.5.0.apk",
+  "notes": "抠像可拖动缩放，人物和背景可捏合放大",
   "force": false,
-  "sha256": "ff9051c48b28e8750a2cadb27d361205f620eb0375bed0352376af1df696550a"
+  "sha256": "1d552f659dd6c3b3dabacd7cf37e83431f6364263db93a95f96d6e9a438c9a66"
 }
