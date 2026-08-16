@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.5.0.apk",
-  "notes": "抠像可拖动缩放，人物和背景可捏合放大",
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.6.0.apk",
+  "notes": "画面文字可改颜色字体，修复抠像镜头拉伸，叠加视频也可开动态层",
   "force": false,
-  "sha256": "1d552f659dd6c3b3dabacd7cf37e83431f6364263db93a95f96d6e9a438c9a66"
+  "sha256": "621dbee1b40d9889abdfd1122b1db4fba561ef047a2075abc52d366d0ce01ef4"
 }
