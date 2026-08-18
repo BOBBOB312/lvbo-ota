@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6.0",
-  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.6.0.apk",
-  "notes": "画面文字可改颜色字体，修复抠像镜头拉伸，叠加视频也可开动态层",
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.7.0.apk",
+  "notes": "画面指纹弱/中档，纯播放也能开；界面重做，开关会亮；绿幕背景区域也叠噪点",
   "force": false,
-  "sha256": "621dbee1b40d9889abdfd1122b1db4fba561ef047a2075abc52d366d0ce01ef4"
+  "sha256": "2b654a8cff06cfc232508f2fb415f6cd0dff25df4c3baed72495de134bcb1a42"
 }
