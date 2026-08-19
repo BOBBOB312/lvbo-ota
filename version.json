@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.7.0.apk",
-  "notes": "画面指纹弱/中档，纯播放也能开；界面重做，开关会亮；绿幕背景区域也叠噪点",
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.8.0.apk",
+  "notes": "修复绿幕摄像头人物被左右撑开，按真实旋转保持正常比例",
   "force": false,
-  "sha256": "2b654a8cff06cfc232508f2fb415f6cd0dff25df4c3baed72495de134bcb1a42"
+  "sha256": "31be411a85286aadd3c85f514405a90d96d0f6860fc3a1f8bedb2e8de5c70d46"
 }
