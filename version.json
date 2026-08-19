@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.8.0.apk",
-  "notes": "修复绿幕摄像头人物被左右撑开，按真实旋转保持正常比例",
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.9.0.apk",
+  "notes": "摄像头默认竖屏；上下拖动跟手；绿幕人物/背景可拖四边四角缩放框",
   "force": false,
-  "sha256": "31be411a85286aadd3c85f514405a90d96d0f6860fc3a1f8bedb2e8de5c70d46"
+  "sha256": "827addc077ed4672cd6fcb6328823a2d696e60d7e170003e017442731f493a02"
 }
