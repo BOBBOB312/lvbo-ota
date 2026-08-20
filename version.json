@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.9.0.apk",
-  "notes": "摄像头默认竖屏；上下拖动跟手；绿幕人物/背景可拖四边四角缩放框",
+  "versionCode": 10,
+  "versionName": "0.10.0",
+  "apkUrl": "https://raw.githubusercontent.com/BOBBOB312/lvbo-ota/main/lvbo-0.10.0.apk",
+  "notes": "界面重做：更简约，次要功能收进画面面板",
   "force": false,
-  "sha256": "827addc077ed4672cd6fcb6328823a2d696e60d7e170003e017442731f493a02"
+  "sha256": "4a3184fac7d9a79747a48f1a07fb63dd4487a63862330bb52c9a73dfb1e3dd86"
 }
